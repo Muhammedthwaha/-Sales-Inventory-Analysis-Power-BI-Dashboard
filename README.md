@@ -84,11 +84,7 @@ It brings together all key KPIs into a single interactive report.
 
 ## 🖼️ **Dashboard Preview**
 
-> *(Insert the dashboard image inside the README — you can upload `Dashboard.png` to your GitHub repo and reference it here)*
-
-```md
 ![Sales & Inventory Dashboard](Dashboard.png)
-```
 
 ---
 
